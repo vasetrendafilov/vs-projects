@@ -1,0 +1,26 @@
+D:\vizual studio\Spamer\Spamer\bin\Debug\Spamer.exe.config
+D:\vizual studio\Spamer\Spamer\bin\Debug\Spamer.exe
+D:\vizual studio\Spamer\Spamer\bin\Debug\Spamer.pdb
+D:\vizual studio\Spamer\Spamer\obj\Debug\Spamer.SpamBot.resources
+D:\vizual studio\Spamer\Spamer\obj\Debug\Spamer.Properties.Resources.resources
+D:\vizual studio\Spamer\Spamer\obj\Debug\Spamer.csproj.GenerateResource.Cache
+D:\vizual studio\Spamer\Spamer\obj\Debug\Spamer.exe
+D:\vizual studio\Spamer\Spamer\obj\Debug\Spamer.pdb
+D:\windows\vizual studio\Spamer\Spamer\bin\Debug\Spamer.exe.config
+D:\windows\vizual studio\Spamer\Spamer\bin\Debug\Spamer.exe
+D:\windows\vizual studio\Spamer\Spamer\bin\Debug\Spamer.pdb
+D:\windows\vizual studio\Spamer\Spamer\obj\Debug\Spamer.csprojResolveAssemblyReference.cache
+D:\windows\vizual studio\Spamer\Spamer\obj\Debug\Spamer.SpamBot.resources
+D:\windows\vizual studio\Spamer\Spamer\obj\Debug\Spamer.Properties.Resources.resources
+D:\windows\vizual studio\Spamer\Spamer\obj\Debug\Spamer.csproj.GenerateResource.Cache
+D:\windows\vizual studio\Spamer\Spamer\obj\Debug\Spamer.exe
+D:\windows\vizual studio\Spamer\Spamer\obj\Debug\Spamer.pdb
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\bin\Debug\Spamer.exe.config
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\bin\Debug\Spamer.exe
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\bin\Debug\Spamer.pdb
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\obj\Debug\Spamer.csprojResolveAssemblyReference.cache
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\obj\Debug\Spamer.SpamBot.resources
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\obj\Debug\Spamer.Properties.Resources.resources
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\obj\Debug\Spamer.csproj.GenerateResource.Cache
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\obj\Debug\Spamer.exe
+D:\Windows Startup Programs\Visual Studio\Spamer\Spamer\obj\Debug\Spamer.pdb

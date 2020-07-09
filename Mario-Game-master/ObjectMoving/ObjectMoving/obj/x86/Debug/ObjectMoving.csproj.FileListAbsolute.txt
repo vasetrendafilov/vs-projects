@@ -1,0 +1,9 @@
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\bin\Debug\mushroom.png
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.exe
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.pdb
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.csprojResolveAssemblyReference.cache
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.Cache
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+C:\Users\vase_\Desktop\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
